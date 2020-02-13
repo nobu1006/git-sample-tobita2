@@ -3,3 +3,5 @@ tobita
 rakus
 
 rebase練習
+
+直前のコミットコメントの修正
